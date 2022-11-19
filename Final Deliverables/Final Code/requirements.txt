@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+keras
+tensorflow
+sklearn
+flask
+opencv-python
+twilio
+playsound 
